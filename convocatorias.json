@@ -1,0 +1,661 @@
+{
+ "updated": "2026-10-29",
+ "airlines": [
+  {
+   "id": "airnostrum",
+   "accent": "#1A1A1A",
+   "name": "Air Nostrum",
+   "code": "YW",
+   "color": "#C8102E",
+   "type": "Regional",
+   "home": "España",
+   "bases": "Valencia y otras bases en España",
+   "careers": "https://jobs.airnostrum.es",
+   "cert": true,
+   "req": [
+    "Certificado de TCP en vigor",
+    "Bachillerato o Grado Medio/Superior (homologado en España)",
+    "Mayor de 18 años",
+    "Estatura entre 1,65 y 1,80 m",
+    "Inglés fluido (B2)",
+    "Saber nadar",
+    "Permiso de residencia y trabajo"
+   ],
+   "crit": {
+    "age": 18,
+    "hmin": 165,
+    "hmax": 180,
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "iberiaexpress",
+   "accent": "#FFCC00",
+   "name": "Iberia Express",
+   "code": "I2",
+   "color": "#D7192D",
+   "type": "Low cost",
+   "home": "España",
+   "bases": "Madrid (movilidad geográfica)",
+   "careers": "https://booking.iberiaexpress.com/headhunting/tcp",
+   "cert": false,
+   "req": [
+    "Mayor de 18 años",
+    "Estatura mínima 1,65 m",
+    "Nivel alto de español e inglés",
+    "Bachillerato o equivalente",
+    "DNI/NIE con permiso de trabajo y pasaporte en vigor",
+    "No haber participado en un proceso de Iberia Express en los últimos 12 meses"
+   ],
+   "crit": {
+    "age": 18,
+    "hmin": 165,
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "binter",
+   "accent": "#0B3B2E",
+   "name": "Binter",
+   "code": "NT",
+   "color": "#1F8A5B",
+   "type": "Regional",
+   "home": "España",
+   "bases": "Tenerife Norte, Tenerife Sur y Gran Canaria",
+   "careers": "https://trabajaconnosotros.bintercanarias.com/jobs/tripulante-de-cabina-de-pasajeros-bf9fa48b-37f9-4e7e-880b-a9c63aaf21e1",
+   "cert": true,
+   "req": [
+    "Bachillerato (imprescindible)",
+    "Certificado de TCP y certificado médico aeronáutico en vigor",
+    "Inglés; se valora francés o italiano",
+    "Permiso de trabajo en la UE y DNI/NIE",
+    "Movilidad geográfica",
+    "No haber participado en un proceso de Binter en los últimos 12 meses"
+   ],
+   "crit": {
+    "eng": "B1"
+   }
+  },
+  {
+   "id": "aireuropaexpress",
+   "accent": "#3FA9F5",
+   "name": "Air Europa Express",
+   "code": "X5",
+   "color": "#0B2C5F",
+   "type": "Regional",
+   "home": "España",
+   "bases": "Madrid",
+   "careers": "https://jobs.aireuropaexpress.bizneo.cloud/jobs/convocatoria-de-tripulantes-de-cabina-de-pasajeros-tcp-base-mad",
+   "cert": true,
+   "req": [
+    "Certificado de TCP (EASA) en vigor",
+    "Certificado médico Clase CC en vigor",
+    "Bachillerato o equivalente",
+    "Español nativo o bilingüe e inglés B2",
+    "Permiso de trabajo en la UE y pasaporte sin restricciones",
+    "Certificado de antecedentes penales"
+   ],
+   "crit": {
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "ryanair",
+   "accent": "#F1C933",
+   "name": "Ryanair",
+   "code": "FR",
+   "color": "#073590",
+   "type": "Low cost",
+   "home": "España",
+   "bases": "Más de 90 bases en Europa, incluidas españolas",
+   "careers": "https://careers.ryanair.com/",
+   "cert": false,
+   "req": [
+    "Mayor de 18 años",
+    "Inglés alto",
+    "Estatura entre 1,57 y 1,88 m",
+    "Pasaporte en vigor",
+    "Saber nadar"
+   ],
+   "crit": {
+    "age": 18,
+    "hmin": 157,
+    "hmax": 188,
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "norwegian",
+   "accent": "#00205B",
+   "name": "Norwegian",
+   "code": "DY",
+   "color": "#D81939",
+   "type": "Low cost",
+   "home": "España",
+   "bases": "Bases en España",
+   "careers": "https://careers.norwegian.com/go/Cabin-Crew/777802/",
+   "cert": false,
+   "req": [
+    "Mayor de 20 años",
+    "Estatura 1,60 m o alcance de 2,10 m de puntillas",
+    "Pasaporte europeo sin restricciones y permiso de trabajo",
+    "Inglés fluido; se valora certificado de TCP",
+    "Vivir a menos de 90 min de la base",
+    "Sin tatuajes en cara o cuello",
+    "Nº de la Seguridad Social y DNI/NIE"
+   ],
+   "crit": {
+    "age": 20,
+    "hmin": 160,
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "emirates",
+   "accent": "#C8A964",
+   "name": "Emirates",
+   "code": "EK",
+   "color": "#D71A21",
+   "type": "Internacional",
+   "home": "Fuera",
+   "bases": "Dubái",
+   "careers": "https://www.emiratesgroupcareers.com/cabin-crew/",
+   "cert": false,
+   "req": [
+    "Mínimo 21 años",
+    "Estatura mínima 1,60 m y alcance de 2,12 m",
+    "Inglés fluido hablado y escrito",
+    "Al menos 1 año de experiencia en hostelería o atención al cliente",
+    "Bachillerato (Grade 12)",
+    "Sin tatuajes visibles con el uniforme",
+    "Cumplir los requisitos del visado de trabajo de EAU"
+   ],
+   "crit": {
+    "age": 21,
+    "hmin": 160,
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "etihad",
+   "accent": "#3C3C3B",
+   "name": "Etihad Airways",
+   "code": "EY",
+   "color": "#A57F2C",
+   "type": "Internacional",
+   "home": "Fuera",
+   "bases": "Abu Dabi",
+   "careers": "https://careers.etihad.com/teams/cabin-crew",
+   "cert": false,
+   "req": [
+    "21 años al presentar la candidatura",
+    "Estatura mínima 1,63 m",
+    "Bachillerato (Grade 12) o equivalente",
+    "Inglés fluido hablado y escrito",
+    "Sin tatuajes visibles con el uniforme"
+   ],
+   "crit": {
+    "age": 21,
+    "hmin": 163,
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "qatar",
+   "accent": "#A6A6A6",
+   "name": "Qatar Airways",
+   "code": "QR",
+   "color": "#5C0632",
+   "type": "Internacional",
+   "home": "Fuera",
+   "bases": "Doha",
+   "careers": "https://careers.qatarairways.com/global/JobDetail/Cabin-Crew-Recruitment-Madrid-Spain-2026/66568",
+   "cert": false,
+   "req": [
+    "Se valoran 2 años de experiencia de cara al público",
+    "Alcance de 2,12 m con el brazo extendido",
+    "10 años de educación formal",
+    "Inglés fluido",
+    "Poder obtener visado de trabajo en Catar"
+   ],
+   "crit": {
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "riyadhair",
+   "accent": "#C9B8E8",
+   "name": "Riyadh Air",
+   "code": "RX",
+   "color": "#4E2A84",
+   "type": "Internacional",
+   "home": "Fuera",
+   "bases": "Riad",
+   "careers": "https://cabincrew-riyadhair.icims.com/jobs/2531/cabin-crew---recruitment-event-%7c-madrid%2c-spain/job",
+   "cert": false,
+   "req": [
+    "Mínimo 21 años",
+    "Estatura 1,60 m y alcance de 2,12 m",
+    "Inglés",
+    "Saber nadar",
+    "Bachillerato o superior",
+    "1 año de experiencia en atención al cliente",
+    "Sin tatuajes ni piercings visibles con el uniforme"
+   ],
+   "crit": {
+    "age": 21,
+    "hmin": 160,
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "frenchbee",
+   "accent": "#0B2E59",
+   "name": "French Bee",
+   "code": "BF",
+   "color": "#2E9BE0",
+   "type": "Largo radio",
+   "home": "Fuera",
+   "bases": "París-Orly",
+   "careers": "https://www.tripulantesaereosta.es/convocatoriasactivastcp/",
+   "cert": true,
+   "req": [
+    "Certificado de TCP europeo en vigor",
+    "Certificado médico Clase 2",
+    "Certificado de inglés B2 (TOEIC/Linguaskill 4 destrezas) o C1 LILATE, de menos de 2 años",
+    "1 año de experiencia de cara al cliente",
+    "Pasaporte y DNI con 6 meses de validez",
+    "CV en inglés"
+   ],
+   "crit": {
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "tap",
+   "accent": "#E30613",
+   "name": "TAP Air Portugal",
+   "code": "TP",
+   "color": "#2A9D6F",
+   "type": "Internacional",
+   "home": "Fuera",
+   "bases": "Lisboa",
+   "careers": "https://recrutamento.tap.pt/job/TAP-Concurso-Comiss%C3%A1rioAssistente-de-Bordo-Lisboa/1373852857/",
+   "cert": true,
+   "req": [
+    "Estatura entre 1,60 y 1,90 m",
+    "12º curso (bachillerato) o equivalente",
+    "Certificado de TCP EASA y certificado médico en vigor",
+    "Buen nivel de portugués e inglés",
+    "Autorización para trabajar en Portugal",
+    "Saber nadar; sin tatuajes ni piercings visibles"
+   ],
+   "crit": {
+    "hmin": 160,
+    "hmax": 190
+   }
+  },
+  {
+   "id": "smartwings",
+   "accent": "#00A0E3",
+   "name": "Smartwings",
+   "code": "QS",
+   "color": "#1F3E93",
+   "type": "Low cost / chárter",
+   "home": "Fuera",
+   "bases": "República Checa y bases europeas",
+   "careers": "https://www.tripulantesaereosta.es/convocatoriasactivastcp/",
+   "cert": false,
+   "req": [
+    "Pasaporte UE o Schengen",
+    "Mayor de 18 años",
+    "Inglés B2",
+    "Sin antecedentes penales y verificación de la autoridad checa",
+    "Vacuna de la fiebre amarilla"
+   ],
+   "crit": {
+    "age": 18,
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "finnair",
+   "accent": "#7FC4EA",
+   "name": "Finnair",
+   "code": "AY",
+   "color": "#0B1560",
+   "type": "Internacional",
+   "home": "Fuera",
+   "bases": "Helsinki",
+   "careers": "https://company.finnair.com/en/careers/cabin-crew",
+   "cert": false,
+   "req": [
+    "Mayor de 18 años",
+    "Estatura mínima 1,60 m y alcance de 2,18 m descalza",
+    "Inglés (se valora finés)",
+    "1 año de experiencia en atención al cliente",
+    "Nadar 40 m",
+    "Pasaporte UE/EEE/Suiza"
+   ],
+   "crit": {
+    "age": 18,
+    "hmin": 160,
+    "eng": "B2"
+   }
+  }
+ ],
+ "events": [
+  {
+   "id": "yw-mad-1029",
+   "airline": "airnostrum",
+   "date": "2026-10-29",
+   "time": "09:30",
+   "city": "Madrid",
+   "country": "España",
+   "kind": "Jornada de puertas abiertas",
+   "access": "libre",
+   "venue": "Hotel Madrid Alameda Aeropuerto by Meliá · Av. de Logroño, 100",
+   "notes": "Se puede acudir sin cita, pero hay que registrar también el CV en el portal de empleo de Air Nostrum. Lleva 2 fotos carné, 1 foto de cuerpo entero, copia del DNI, 2 CV y títulos (original y copia).",
+   "link": "https://jobs.airnostrum.es/AIRNOSTRUMLINEASAEREAS/job/MADRID-JORNADAS-PUERTAS-ABIERTAS-PARA-TCP-MADRID/1448441233/"
+  },
+  {
+   "id": "ek-opo-1029",
+   "airline": "emirates",
+   "date": "2026-10-29",
+   "time": "09:00",
+   "city": "Oporto",
+   "country": "Portugal",
+   "kind": "Open Day",
+   "access": "libre",
+   "venue": "Porto Palácio Hotel · Av. da Boavista, 1269",
+   "notes": "Organizado con la agencia Fly Right Intl. Lleva CV en inglés y documento de identidad.",
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+  },
+  {
+   "id": "bf-ad-1102",
+   "airline": "frenchbee",
+   "date": "2026-11-02",
+   "time": "",
+   "city": "Por confirmar",
+   "country": "Francia",
+   "kind": "Assessment Day (2 y 3 nov)",
+   "access": "invitacion",
+   "venue": "Se comunica a las candidatas preseleccionadas",
+   "notes": "Base París-Orly. Formación a partir de diciembre de 2026. Las candidaturas incompletas se descartan.",
+   "link": "https://www.tripulantesaereosta.es/convocatoriasactivastcp/"
+  },
+  {
+   "id": "yw-vlc-1103",
+   "airline": "airnostrum",
+   "date": "2026-11-03",
+   "time": "09:30",
+   "city": "Valencia",
+   "country": "España",
+   "kind": "Jornada de puertas abiertas",
+   "access": "libre",
+   "venue": "Hotel NH Center · C/ Ricardo Micó, 1",
+   "notes": "Lleva 2 fotos carné, 1 foto de cuerpo entero, copia del DNI, 2 CV y títulos (original y copia). Registra también tu CV en el portal de Air Nostrum.",
+   "link": "https://jobs.airnostrum.es/AIRNOSTRUMLINEASAEREAS/job/Quart-de-Poblet-VALENCIA-JORNADAS-PUERTAS-ABIERTAS-PARA-TCP-VALENCIA-1/1448847233/"
+  },
+  {
+   "id": "ek-alc-1105",
+   "airline": "emirates",
+   "date": "2026-11-05",
+   "time": "09:00",
+   "city": "Alicante",
+   "country": "España",
+   "kind": "Open Day",
+   "access": "libre",
+   "venue": "Hotel NH Alicante · Calle México, 18",
+   "notes": "No hace falta inscribirse antes: llega a la hora de inicio para registrarte. Lleva CV en inglés y documento de identidad.",
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+  },
+  {
+   "id": "ek-bcn-1107",
+   "airline": "emirates",
+   "date": "2026-11-07",
+   "time": "09:00",
+   "city": "Barcelona",
+   "country": "España",
+   "kind": "Open Day",
+   "access": "libre",
+   "venue": "Four Points by Sheraton Barcelona Diagonal · Av. Diagonal, 161-163",
+   "notes": "No hace falta inscribirse antes: llega a la hora de inicio para registrarte. Lleva CV en inglés y documento de identidad.",
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+  },
+  {
+   "id": "yw-svq-1109",
+   "airline": "airnostrum",
+   "date": "2026-11-09",
+   "time": "09:00",
+   "city": "Sevilla",
+   "country": "España",
+   "kind": "Jornada de puertas abiertas",
+   "access": "libre",
+   "venue": "Hotel NH Collection Sevilla · Av. Diego Martínez Barrio, 8",
+   "notes": "¡En Sevilla! Lleva 2 fotos carné, 1 foto de cuerpo entero, copia del DNI, 2 CV y títulos (original y copia). Registra también tu CV en el portal de Air Nostrum.",
+   "link": "https://jobs.airnostrum.es"
+  },
+  {
+   "id": "fr-opo-1113",
+   "airline": "ryanair",
+   "date": "2026-11-13",
+   "time": "",
+   "city": "Oporto",
+   "country": "Portugal",
+   "kind": "Recruitment Day",
+   "access": "invitacion",
+   "venue": "Se comunica tras revisar la candidatura",
+   "notes": "Lo organiza Crewlink, agencia de selección de Ryanair. Primero hay que solicitarlo online.",
+   "link": "https://careers.ryanair.com/"
+  },
+  {
+   "id": "ek-lis-1124",
+   "airline": "emirates",
+   "date": "2026-11-24",
+   "time": "09:00",
+   "city": "Lisboa",
+   "country": "Portugal",
+   "kind": "Open Day",
+   "access": "libre",
+   "venue": "Lisbon Marriott Hotel · Av. dos Combatentes, 45",
+   "notes": "Organizado con la agencia Fly Right Intl.",
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+  },
+  {
+   "id": "ek-agp-1124",
+   "airline": "emirates",
+   "date": "2026-11-24",
+   "time": "09:00",
+   "city": "Málaga",
+   "country": "España",
+   "kind": "Open Day",
+   "access": "libre",
+   "venue": "Hilton Garden Inn Málaga · Av. de Velázquez, 126",
+   "notes": "El más cercano a Sevilla. No hace falta inscribirse antes. Lleva CV en inglés y documento de identidad.",
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+  },
+  {
+   "id": "ek-fao-1126",
+   "airline": "emirates",
+   "date": "2026-11-26",
+   "time": "09:00",
+   "city": "Faro",
+   "country": "Portugal",
+   "kind": "Open Day",
+   "access": "libre",
+   "venue": "AP Eva Senses · Av. da República, 1",
+   "notes": "Organizado con la agencia Fly Right Intl. A poco más de 2 h de Sevilla por carretera.",
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+  },
+  {
+   "id": "ek-mad-1126",
+   "airline": "emirates",
+   "date": "2026-11-26",
+   "time": "09:00",
+   "city": "Madrid",
+   "country": "España",
+   "kind": "Open Day",
+   "access": "libre",
+   "venue": "Novotel Madrid Center · O'Donnell, 53",
+   "notes": "No hace falta inscribirse antes. Lleva CV en inglés y documento de identidad.",
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+  },
+  {
+   "id": "fr-pmi-1127",
+   "airline": "ryanair",
+   "date": "2026-11-27",
+   "time": "",
+   "city": "Palma de Mallorca",
+   "country": "España",
+   "kind": "Recruitment Day",
+   "access": "invitacion",
+   "venue": "Se comunica tras revisar la candidatura",
+   "notes": "Lo organiza Crewlink. Primero hay que solicitarlo online.",
+   "link": "https://careers.ryanair.com/"
+  },
+  {
+   "id": "ey-opo-1208",
+   "airline": "etihad",
+   "date": "2026-12-08",
+   "time": "09:00",
+   "city": "Oporto",
+   "country": "Portugal",
+   "kind": "Recruitment Day",
+   "access": "registro",
+   "venue": "Sede en Oporto (se indica al registrarse)",
+   "notes": "Requiere registro previo en la web de Etihad.",
+   "link": "https://careers.etihad.com/teams/cabin-crew"
+  },
+  {
+   "id": "ey-lis-1210",
+   "airline": "etihad",
+   "date": "2026-12-10",
+   "time": "09:00",
+   "city": "Lisboa",
+   "country": "Portugal",
+   "kind": "Recruitment Day",
+   "access": "registro",
+   "venue": "Sede en Lisboa (se indica al registrarse)",
+   "notes": "Oportunidad de acelerar la candidatura y conocer al equipo de selección. Requiere registro previo.",
+   "link": "https://join.smartrecruiters.com/EtihadAirways5/eda99efe-6c29-4961-b0a0-f8520373c0bd-cabin-crew-recruitment-day-lisbon-november-2026"
+  },
+  {
+   "id": "i2-open",
+   "airline": "iberiaexpress",
+   "date": null,
+   "city": "Madrid",
+   "country": "España",
+   "kind": "Candidatura abierta",
+   "access": "online",
+   "status": "siempre abierta",
+   "venue": "Envío de CV online",
+   "notes": "Envío de CV en el portal de empleo de Iberia Express.",
+   "link": "https://booking.iberiaexpress.com/headhunting/tcp"
+  },
+  {
+   "id": "nt-open",
+   "airline": "binter",
+   "date": null,
+   "city": "Canarias",
+   "country": "España",
+   "kind": "Candidatura abierta",
+   "access": "online",
+   "status": "abierta",
+   "venue": "Envío de CV online",
+   "notes": "Bases en Tenerife Norte, Tenerife Sur y Gran Canaria.",
+   "link": "https://trabajaconnosotros.bintercanarias.com/jobs/tripulante-de-cabina-de-pasajeros-bf9fa48b-37f9-4e7e-880b-a9c63aaf21e1"
+  },
+  {
+   "id": "fr-open",
+   "airline": "ryanair",
+   "date": null,
+   "city": "Varias bases",
+   "country": "España",
+   "kind": "Candidatura abierta",
+   "access": "online",
+   "status": "siempre abierta",
+   "venue": "Envío de CV online",
+   "notes": "Tras la candidatura te invitan a un Recruitment Day.",
+   "link": "https://careers.ryanair.com/"
+  },
+  {
+   "id": "dy-open",
+   "airline": "norwegian",
+   "date": null,
+   "city": "Bases en España",
+   "country": "España",
+   "kind": "Candidatura abierta",
+   "access": "online",
+   "status": "abierta",
+   "venue": "Envío de CV online",
+   "notes": "",
+   "link": "https://careers.norwegian.com/go/Cabin-Crew/777802/"
+  },
+  {
+   "id": "qr-mad",
+   "airline": "qatar",
+   "date": null,
+   "city": "Madrid",
+   "country": "España",
+   "kind": "Recruitment Day",
+   "access": "online",
+   "status": "fecha según invitación",
+   "venue": "Madrid · fecha y lugar en la invitación",
+   "notes": "Primero se envía la candidatura online; a las personas preseleccionadas se les invita al Assessment Day con fecha y lugar. Lleva CV en inglés, copia del pasaporte y del título más alto.",
+   "link": "https://careers.qatarairways.com/global/JobDetail/Cabin-Crew-Recruitment-Madrid-Spain-2026/66568"
+  },
+  {
+   "id": "rx-mad",
+   "airline": "riyadhair",
+   "date": null,
+   "city": "Madrid",
+   "country": "España",
+   "kind": "Recruitment Event",
+   "access": "online",
+   "status": "candidaturas hasta el 23 nov",
+   "venue": "Madrid · fecha y lugar tras las pruebas online",
+   "notes": "No hay Open Day: se aplica online y, tras superar las pruebas online, comunican la fecha y el lugar del Assessment Day.",
+   "link": "https://cabincrew-riyadhair.icims.com/jobs/2531/cabin-crew---recruitment-event-%7c-madrid%2c-spain/job"
+  },
+  {
+   "id": "tp-open",
+   "airline": "tap",
+   "date": null,
+   "city": "Lisboa",
+   "country": "Portugal",
+   "kind": "Convocatoria abierta",
+   "access": "online",
+   "status": "abierta",
+   "venue": "Envío de candidatura online",
+   "notes": "Disponibilidad para turnos irregulares 24/7.",
+   "link": "https://recrutamento.tap.pt/job/TAP-Concurso-Comiss%C3%A1rioAssistente-de-Bordo-Lisboa/1373852857/"
+  },
+  {
+   "id": "qs-open",
+   "airline": "smartwings",
+   "date": null,
+   "city": "Europa",
+   "country": "Europa",
+   "kind": "Candidatura abierta",
+   "access": "online",
+   "status": "abierta",
+   "venue": "Formulario online",
+   "notes": "",
+   "link": "https://www.tripulantesaereosta.es/convocatoriasactivastcp/"
+  },
+  {
+   "id": "ay-open",
+   "airline": "finnair",
+   "date": null,
+   "city": "Helsinki",
+   "country": "Finlandia",
+   "kind": "Candidatura abierta",
+   "access": "online",
+   "status": "abierta",
+   "venue": "Envío de CV online",
+   "notes": "",
+   "link": "https://company.finnair.com/en/careers/cabin-crew"
+  }
+ ]
+}
