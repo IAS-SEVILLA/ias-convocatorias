@@ -151,6 +151,103 @@
    }
   },
   {
+   "id": "vueling",
+   "accent": "#4D4D4D",
+   "name": "Vueling",
+   "code": "VY",
+   "color": "#FFCC00",
+   "type": "Low cost",
+   "home": "España",
+   "bases": "Barcelona y bases en España y Europa",
+   "careers": "https://www.cae.com/civil-aviation/aviation-training/become-cabin-crew/our-cabin-crew-programmes/vueling-cabin-crew-programme/",
+   "cert": true,
+   "req": [
+    "Mayor de 18 años",
+    "Bachillerato o equivalente",
+    "Certificado de TCP europeo y certificado médico en vigor",
+    "Inglés fluido (B1); se valoran otros idiomas",
+    "Permiso de trabajo en la UE",
+    "Disponibilidad geográfica",
+    "No haber participado en un proceso de Vueling en los últimos 6 meses"
+   ],
+   "crit": {
+    "age": 18,
+    "eng": "B1"
+   }
+  },
+  {
+   "id": "iberia",
+   "accent": "#F2A900",
+   "name": "Iberia",
+   "code": "IB",
+   "color": "#A6192E",
+   "type": "Internacional",
+   "home": "España",
+   "bases": "Madrid o Barcelona",
+   "careers": "https://portal.iberia.es/iberiaEmpleo/",
+   "cert": true,
+   "req": [
+    "Bachillerato, Grado Superior o acceso a la universidad para mayores de 25",
+    "Formación de TCP reglada",
+    "Estatura mínima 1,64 m",
+    "Nacionalidad de un país de la UE",
+    "Español e inglés alto"
+   ],
+   "crit": {
+    "hmin": 164,
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "aireuropa",
+   "accent": "#E31837",
+   "name": "Air Europa",
+   "code": "UX",
+   "color": "#0A2240",
+   "type": "Internacional",
+   "home": "España",
+   "bases": "Madrid",
+   "careers": "https://vacantes.aireuropa.com/",
+   "cert": true,
+   "req": [
+    "Certificado de TCP (EASA) y certificado médico Clase CC en vigor",
+    "Bachillerato o equivalente",
+    "Español nativo o bilingüe e inglés B2",
+    "Permiso de trabajo en la UE y pasaporte sin restricciones",
+    "Certificado de antecedentes penales"
+   ],
+   "crit": {
+    "eng": "B2"
+   }
+  },
+  {
+   "id": "volotea",
+   "accent": "#FF5A5F",
+   "name": "Volotea",
+   "code": "V7",
+   "color": "#4B2A7B",
+   "type": "Low cost",
+   "home": "España",
+   "bases": "Asturias, Bilbao, Madrid y bases en Europa",
+   "careers": "https://volotea.teamtailor.com/jobs",
+   "cert": false,
+   "req": [
+    "Mayor de 18 años",
+    "Inglés fluido; se valoran francés, italiano o alemán",
+    "Pasaporte europeo o permiso de trabajo",
+    "Certificado de TCP (o formación inicial con Volotea)",
+    "Estatura entre 1,57 y 1,90 m",
+    "Nadar 100 metros",
+    "Vivir a menos de 60 minutos del aeropuerto"
+   ],
+   "crit": {
+    "age": 18,
+    "hmin": 157,
+    "hmax": 190,
+    "eng": "B2"
+   }
+  },
+  {
    "id": "emirates",
    "accent": "#C8A964",
    "name": "Emirates",
@@ -699,6 +796,32 @@
    "venue": "Envío de CV online",
    "notes": "",
    "link": "https://company.finnair.com/en/careers/cabin-crew"
+  },
+  {
+   "id": "nt-open",
+   "airline": "binter",
+   "date": null,
+   "city": "Canarias",
+   "country": "España",
+   "kind": "Candidatura abierta",
+   "access": "online",
+   "status": "abierta",
+   "venue": "Envío de CV online",
+   "notes": "Bases en Canarias. Piden certificado de TCP y certificado médico aeronáutico en vigor.",
+   "link": "https://trabajaconnosotros.bintercanarias.com/jobs/tripulante-de-cabina-de-pasajeros-bf9fa48b-37f9-4e7e-880b-a9c63aaf21e1"
+  },
+  {
+   "id": "v7-open",
+   "airline": "volotea",
+   "date": null,
+   "city": "Bases en España",
+   "country": "España",
+   "kind": "Candidatura abierta",
+   "access": "online",
+   "status": "abierta",
+   "venue": "Envío de CV online",
+   "notes": "Proceso continuo para Senior Cabin Crew y Cabin Crew en sus bases (Asturias, Bilbao, Madrid y otras). Comprueba en su web qué bases tienen plazas.",
+   "link": "https://volotea.teamtailor.com/jobs"
   }
  ]
 }
