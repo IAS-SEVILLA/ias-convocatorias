@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-11-01",
  "airlines": [
   {
    "id": "airnostrum",
@@ -369,18 +369,24 @@
    "access": "libre",
    "venue": "Porto Palácio Hotel · Av. da Boavista, 1269",
    "notes": "Organizado con la agencia Fly Right Intl. Lleva CV en inglés y documento de identidad.",
-   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/",
+   "docs": [
+    "Documento de identidad en vigor (pasaporte, DNI o carné de conducir)",
+    "CV actualizado en inglés (copia digital en el móvil)",
+    "Copia del título de estudios (digital)",
+    "Copia del pasaporte en PDF (digital)"
+   ]
   },
   {
    "id": "bf-ad-1102",
    "airline": "frenchbee",
    "date": "2026-11-02",
    "time": "",
-   "city": "Por confirmar",
+   "city": "París-Orly",
    "country": "Francia",
    "kind": "Assessment Day (2 y 3 nov)",
    "access": "invitacion",
-   "venue": "Se comunica a las candidatas preseleccionadas",
+   "venue": "Aeropuerto de París-Orly (ORY) · solo candidaturas preseleccionadas",
    "notes": "Base París-Orly. Formación a partir de diciembre de 2026. Las candidaturas incompletas se descartan.",
    "link": "https://www.tripulantesaereosta.es/convocatoriasactivastcp/"
   },
@@ -394,8 +400,15 @@
    "kind": "Jornada de puertas abiertas",
    "access": "libre",
    "venue": "Hotel NH Center · C/ Ricardo Micó, 1",
-   "notes": "Lleva 2 fotos carné, 1 foto de cuerpo entero, copia del DNI, 2 CV y títulos (original y copia). Registra también tu CV en el portal de Air Nostrum.",
-   "link": "https://jobs.airnostrum.es/AIRNOSTRUMLINEASAEREAS/job/Quart-de-Poblet-VALENCIA-JORNADAS-PUERTAS-ABIERTAS-PARA-TCP-VALENCIA-1/1448847233/"
+   "notes": "Registra también tu CV en el portal de Air Nostrum.",
+   "link": "https://jobs.airnostrum.es/AIRNOSTRUMLINEASAEREAS/job/Quart-de-Poblet-VALENCIA-JORNADAS-PUERTAS-ABIERTAS-PARA-TCP-VALENCIA-1/1448847233/",
+   "docs": [
+    "2 fotos tamaño carné",
+    "1 foto de cuerpo entero",
+    "Fotocopia del DNI o pasaporte",
+    "2 copias del CV",
+    "Certificados de estudios homologados en España (original y copia)"
+   ]
   },
   {
    "id": "ek-alc-1105",
@@ -408,7 +421,13 @@
    "access": "libre",
    "venue": "Hotel NH Alicante · Calle México, 18",
    "notes": "No hace falta inscribirse antes: llega a la hora de inicio para registrarte. Lleva CV en inglés y documento de identidad.",
-   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/",
+   "docs": [
+    "Documento de identidad en vigor (pasaporte, DNI o carné de conducir)",
+    "CV actualizado en inglés (copia digital en el móvil)",
+    "Copia del título de estudios (digital)",
+    "Copia del pasaporte en PDF (digital)"
+   ]
   },
   {
    "id": "ek-bcn-1107",
@@ -421,7 +440,13 @@
    "access": "libre",
    "venue": "Four Points by Sheraton Barcelona Diagonal · Av. Diagonal, 161-163",
    "notes": "No hace falta inscribirse antes: llega a la hora de inicio para registrarte. Lleva CV en inglés y documento de identidad.",
-   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/",
+   "docs": [
+    "Documento de identidad en vigor (pasaporte, DNI o carné de conducir)",
+    "CV actualizado en inglés (copia digital en el móvil)",
+    "Copia del título de estudios (digital)",
+    "Copia del pasaporte en PDF (digital)"
+   ]
   },
   {
    "id": "yw-svq-1109",
@@ -433,8 +458,15 @@
    "kind": "Jornada de puertas abiertas",
    "access": "libre",
    "venue": "Hotel NH Collection Sevilla · Av. Diego Martínez Barrio, 8",
-   "notes": "¡En Sevilla! Lleva 2 fotos carné, 1 foto de cuerpo entero, copia del DNI, 2 CV y títulos (original y copia). Registra también tu CV en el portal de Air Nostrum.",
-   "link": "https://jobs.airnostrum.es"
+   "notes": "¡En Sevilla! No hace falta cita, pero hay que enviar también el CV por la web de Air Nostrum.",
+   "link": "https://jobs.airnostrum.es/AIRNOSTRUMLINEASAEREAS/job/Quart-de-Poblet-VALENCIA-JORNADAS-PUERTAS-ABIERTAS-PARA-TCP-SEVILLA/1448848133/",
+   "docs": [
+    "2 fotos tamaño carné",
+    "1 foto de cuerpo entero",
+    "Fotocopia del DNI o pasaporte",
+    "2 copias del CV",
+    "Certificados de estudios homologados en España (original y copia)"
+   ]
   },
   {
    "id": "fr-opo-1113",
@@ -460,7 +492,13 @@
    "access": "libre",
    "venue": "Lisbon Marriott Hotel · Av. dos Combatentes, 45",
    "notes": "Organizado con la agencia Fly Right Intl.",
-   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/",
+   "docs": [
+    "Documento de identidad en vigor (pasaporte, DNI o carné de conducir)",
+    "CV actualizado en inglés (copia digital en el móvil)",
+    "Copia del título de estudios (digital)",
+    "Copia del pasaporte en PDF (digital)"
+   ]
   },
   {
    "id": "ek-agp-1124",
@@ -473,7 +511,13 @@
    "access": "libre",
    "venue": "Hilton Garden Inn Málaga · Av. de Velázquez, 126",
    "notes": "El más cercano a Sevilla. No hace falta inscribirse antes. Lleva CV en inglés y documento de identidad.",
-   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/",
+   "docs": [
+    "Documento de identidad en vigor (pasaporte, DNI o carné de conducir)",
+    "CV actualizado en inglés (copia digital en el móvil)",
+    "Copia del título de estudios (digital)",
+    "Copia del pasaporte en PDF (digital)"
+   ]
   },
   {
    "id": "ek-fao-1126",
@@ -486,7 +530,13 @@
    "access": "libre",
    "venue": "AP Eva Senses · Av. da República, 1",
    "notes": "Organizado con la agencia Fly Right Intl. A poco más de 2 h de Sevilla por carretera.",
-   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/",
+   "docs": [
+    "Documento de identidad en vigor (pasaporte, DNI o carné de conducir)",
+    "CV actualizado en inglés (copia digital en el móvil)",
+    "Copia del título de estudios (digital)",
+    "Copia del pasaporte en PDF (digital)"
+   ]
   },
   {
    "id": "ek-mad-1126",
@@ -499,7 +549,13 @@
    "access": "libre",
    "venue": "Novotel Madrid Center · O'Donnell, 53",
    "notes": "No hace falta inscribirse antes. Lleva CV en inglés y documento de identidad.",
-   "link": "https://www.emiratesgroupcareers.com/cabin-crew/"
+   "link": "https://www.emiratesgroupcareers.com/cabin-crew/",
+   "docs": [
+    "Documento de identidad en vigor (pasaporte, DNI o carné de conducir)",
+    "CV actualizado en inglés (copia digital en el móvil)",
+    "Copia del título de estudios (digital)",
+    "Copia del pasaporte en PDF (digital)"
+   ]
   },
   {
    "id": "fr-pmi-1127",
@@ -525,7 +581,7 @@
    "access": "registro",
    "venue": "Sede en Oporto (se indica al registrarse)",
    "notes": "Requiere registro previo en la web de Etihad.",
-   "link": "https://careers.etihad.com/teams/cabin-crew"
+   "link": "https://join.smartrecruiters.com/EtihadAirways5/ded48da4-97eb-41e0-bc5e-c632366da1d6-cabin-crew-recruitment-day-porto-november-2026"
   },
   {
    "id": "ey-lis-1210",
@@ -552,19 +608,6 @@
    "venue": "Envío de CV online",
    "notes": "Envío de CV en el portal de empleo de Iberia Express.",
    "link": "https://booking.iberiaexpress.com/headhunting/tcp"
-  },
-  {
-   "id": "nt-open",
-   "airline": "binter",
-   "date": null,
-   "city": "Canarias",
-   "country": "España",
-   "kind": "Candidatura abierta",
-   "access": "online",
-   "status": "abierta",
-   "venue": "Envío de CV online",
-   "notes": "Bases en Tenerife Norte, Tenerife Sur y Gran Canaria.",
-   "link": "https://trabajaconnosotros.bintercanarias.com/jobs/tripulante-de-cabina-de-pasajeros-bf9fa48b-37f9-4e7e-880b-a9c63aaf21e1"
   },
   {
    "id": "fr-open",
@@ -606,6 +649,19 @@
    "link": "https://careers.qatarairways.com/global/JobDetail/Cabin-Crew-Recruitment-Madrid-Spain-2026/66568"
   },
   {
+   "id": "qr-lis",
+   "airline": "qatar",
+   "date": null,
+   "city": "Lisboa",
+   "country": "Portugal",
+   "kind": "Recruitment Day",
+   "access": "online",
+   "status": "fecha según invitación",
+   "venue": "Lisboa · fecha y lugar en la invitación",
+   "notes": "Primero se envía la candidatura online; a las personas preseleccionadas se les comunica la fecha y el lugar.",
+   "link": "https://careers.qatarairways.com/global/JobDetail/Cabin-Crew-Recruitment-Lisbon-Portugal-2026/77270"
+  },
+  {
    "id": "rx-mad",
    "airline": "riyadhair",
    "date": null,
@@ -617,19 +673,6 @@
    "venue": "Madrid · fecha y lugar tras las pruebas online",
    "notes": "No hay Open Day: se aplica online y, tras superar las pruebas online, comunican la fecha y el lugar del Assessment Day.",
    "link": "https://cabincrew-riyadhair.icims.com/jobs/2531/cabin-crew---recruitment-event-%7c-madrid%2c-spain/job"
-  },
-  {
-   "id": "tp-open",
-   "airline": "tap",
-   "date": null,
-   "city": "Lisboa",
-   "country": "Portugal",
-   "kind": "Convocatoria abierta",
-   "access": "online",
-   "status": "abierta",
-   "venue": "Envío de candidatura online",
-   "notes": "Disponibilidad para turnos irregulares 24/7.",
-   "link": "https://recrutamento.tap.pt/job/TAP-Concurso-Comiss%C3%A1rioAssistente-de-Bordo-Lisboa/1373852857/"
   },
   {
    "id": "qs-open",
