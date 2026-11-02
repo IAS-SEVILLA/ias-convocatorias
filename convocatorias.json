@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "airlines": [
   {
    "id": "airnostrum",
@@ -14,7 +14,7 @@
    "cert": true,
    "req": [
     "Certificado de TCP en vigor",
-    "Bachillerato o Grado Medio/Superior (homologado en España)",
+    "1.º de Bachillerato o ciclo formativo de grado medio o superior (homologado en España)",
     "Mayor de 18 años",
     "Estatura entre 1,65 y 1,80 m",
     "Inglés fluido (B2)",
