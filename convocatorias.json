@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "airlines": [
   {
    "id": "airnostrum",
@@ -459,38 +459,6 @@
   }
  ],
  "events": [
-  {
-   "id": "yw-mad-1029",
-   "airline": "airnostrum",
-   "date": "2026-10-29",
-   "time": "09:30",
-   "city": "Madrid",
-   "country": "España",
-   "kind": "Jornada de puertas abiertas",
-   "access": "libre",
-   "venue": "Hotel Madrid Alameda Aeropuerto by Meliá · Av. de Logroño, 100",
-   "notes": "Se puede acudir sin cita, pero hay que registrar también el CV en el portal de empleo de Air Nostrum. Lleva 2 fotos carné, 1 foto de cuerpo entero, copia del DNI, 2 CV y títulos (original y copia).",
-   "link": "https://jobs.airnostrum.es/AIRNOSTRUMLINEASAEREAS/job/MADRID-JORNADAS-PUERTAS-ABIERTAS-PARA-TCP-MADRID/1448441233/"
-  },
-  {
-   "id": "ek-opo-1029",
-   "airline": "emirates",
-   "date": "2026-10-29",
-   "time": "09:00",
-   "city": "Oporto",
-   "country": "Portugal",
-   "kind": "Open Day",
-   "access": "libre",
-   "venue": "Porto Palácio Hotel · Av. da Boavista, 1269",
-   "notes": "Organizado con la agencia Fly Right Intl. Lleva CV en inglés y documento de identidad.",
-   "link": "https://www.emiratesgroupcareers.com/cabin-crew/",
-   "docs": [
-    "Documento de identidad en vigor (pasaporte, DNI o carné de conducir)",
-    "CV actualizado en inglés (copia digital en el móvil)",
-    "Copia del título de estudios (digital)",
-    "Copia del pasaporte en PDF (digital)"
-   ]
-  },
   {
    "id": "bf-ad-1102",
    "airline": "frenchbee",
