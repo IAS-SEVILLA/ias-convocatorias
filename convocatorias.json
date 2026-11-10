@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "airlines": [
   {
    "id": "airnostrum",
@@ -459,19 +459,6 @@
   }
  ],
  "events": [
-  {
-   "id": "bf-ad-1102",
-   "airline": "frenchbee",
-   "date": "2026-11-02",
-   "time": "",
-   "city": "París-Orly",
-   "country": "Francia",
-   "kind": "Assessment Day (2 y 3 nov)",
-   "access": "invitacion",
-   "venue": "Aeropuerto de París-Orly (ORY) · solo candidaturas preseleccionadas",
-   "notes": "Base París-Orly. Formación a partir de diciembre de 2026. Las candidaturas incompletas se descartan.",
-   "link": "https://www.tripulantesaereosta.es/convocatoriasactivastcp/"
-  },
   {
    "id": "yw-vlc-1103",
    "airline": "airnostrum",
