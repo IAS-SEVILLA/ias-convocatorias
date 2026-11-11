@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "airlines": [
   {
    "id": "airnostrum",
@@ -459,26 +459,6 @@
   }
  ],
  "events": [
-  {
-   "id": "yw-vlc-1103",
-   "airline": "airnostrum",
-   "date": "2026-11-03",
-   "time": "09:30",
-   "city": "Valencia",
-   "country": "España",
-   "kind": "Jornada de puertas abiertas",
-   "access": "libre",
-   "venue": "Hotel NH Center · C/ Ricardo Micó, 1",
-   "notes": "Registra también tu CV en el portal de Air Nostrum.",
-   "link": "https://jobs.airnostrum.es/AIRNOSTRUMLINEASAEREAS/job/Quart-de-Poblet-VALENCIA-JORNADAS-PUERTAS-ABIERTAS-PARA-TCP-VALENCIA-1/1448847233/",
-   "docs": [
-    "2 fotos tamaño carné",
-    "1 foto de cuerpo entero",
-    "Fotocopia del DNI o pasaporte",
-    "2 copias del CV",
-    "Certificados de estudios homologados en España (original y copia)"
-   ]
-  },
   {
    "id": "ek-alc-1105",
    "airline": "emirates",
