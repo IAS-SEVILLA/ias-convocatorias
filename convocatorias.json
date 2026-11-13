@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "airlines": [
   {
    "id": "airnostrum",
@@ -459,25 +459,6 @@
   }
  ],
  "events": [
-  {
-   "id": "ek-alc-1105",
-   "airline": "emirates",
-   "date": "2026-11-05",
-   "time": "09:00",
-   "city": "Alicante",
-   "country": "España",
-   "kind": "Open Day",
-   "access": "libre",
-   "venue": "Hotel NH Alicante · Calle México, 18",
-   "notes": "No hace falta inscribirse antes: llega a la hora de inicio para registrarte. Lleva CV en inglés y documento de identidad.",
-   "link": "https://www.emiratesgroupcareers.com/cabin-crew/",
-   "docs": [
-    "Documento de identidad en vigor (pasaporte, DNI o carné de conducir)",
-    "CV actualizado en inglés (copia digital en el móvil)",
-    "Copia del título de estudios (digital)",
-    "Copia del pasaporte en PDF (digital)"
-   ]
-  },
   {
    "id": "ek-bcn-1107",
    "airline": "emirates",
