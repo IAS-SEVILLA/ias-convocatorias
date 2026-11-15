@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "airlines": [
   {
    "id": "airnostrum",
@@ -459,25 +459,6 @@
   }
  ],
  "events": [
-  {
-   "id": "ek-bcn-1107",
-   "airline": "emirates",
-   "date": "2026-11-07",
-   "time": "09:00",
-   "city": "Barcelona",
-   "country": "España",
-   "kind": "Open Day",
-   "access": "libre",
-   "venue": "Four Points by Sheraton Barcelona Diagonal · Av. Diagonal, 161-163",
-   "notes": "No hace falta inscribirse antes: llega a la hora de inicio para registrarte. Lleva CV en inglés y documento de identidad.",
-   "link": "https://www.emiratesgroupcareers.com/cabin-crew/",
-   "docs": [
-    "Documento de identidad en vigor (pasaporte, DNI o carné de conducir)",
-    "CV actualizado en inglés (copia digital en el móvil)",
-    "Copia del título de estudios (digital)",
-    "Copia del pasaporte en PDF (digital)"
-   ]
-  },
   {
    "id": "yw-svq-1109",
    "airline": "airnostrum",
