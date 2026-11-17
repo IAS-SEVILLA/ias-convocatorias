@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "airlines": [
   {
    "id": "airnostrum",
@@ -459,26 +459,6 @@
   }
  ],
  "events": [
-  {
-   "id": "yw-svq-1109",
-   "airline": "airnostrum",
-   "date": "2026-11-09",
-   "time": "09:00",
-   "city": "Sevilla",
-   "country": "España",
-   "kind": "Jornada de puertas abiertas",
-   "access": "libre",
-   "venue": "Hotel NH Collection Sevilla · Av. Diego Martínez Barrio, 8",
-   "notes": "¡En Sevilla! No hace falta cita, pero hay que enviar también el CV por la web de Air Nostrum.",
-   "link": "https://jobs.airnostrum.es/AIRNOSTRUMLINEASAEREAS/job/Quart-de-Poblet-VALENCIA-JORNADAS-PUERTAS-ABIERTAS-PARA-TCP-SEVILLA/1448848133/",
-   "docs": [
-    "2 fotos tamaño carné",
-    "1 foto de cuerpo entero",
-    "Fotocopia del DNI o pasaporte",
-    "2 copias del CV",
-    "Certificados de estudios homologados en España (original y copia)"
-   ]
-  },
   {
    "id": "fr-opo-1113",
    "airline": "ryanair",
