@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "airlines": [
   {
    "id": "airnostrum",
@@ -604,19 +604,6 @@
   }
  ],
  "events": [
-  {
-   "id": "fr-opo-1113",
-   "airline": "ryanair",
-   "date": "2026-11-13",
-   "time": "",
-   "city": "Oporto",
-   "country": "Portugal",
-   "kind": "Recruitment Day",
-   "access": "invitacion",
-   "venue": "Se comunica tras revisar la candidatura",
-   "notes": "Lo organiza Crewlink, agencia de selección de Ryanair. Primero hay que solicitarlo online.",
-   "link": "https://careers.ryanair.com/"
-  },
   {
    "id": "ek-lis-1124",
    "airline": "emirates",
