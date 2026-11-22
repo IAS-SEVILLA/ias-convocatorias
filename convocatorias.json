@@ -554,6 +554,27 @@
    }
   },
   {
+   "id": "hifly",
+   "accent": "#9AA5B1",
+   "name": "Hi Fly",
+   "code": "5K",
+   "color": "#1E3F7A",
+   "type": "Chárter / ACMI largo radio",
+   "home": "Fuera",
+   "bases": "Lisboa",
+   "careers": "https://hifly.factorialhr.pt/",
+   "cert": false,
+   "req": [
+    "Mayor de 21 años",
+    "Estatura mínima 1,60 m (mujeres) y 1,70 m (hombres)",
+    "No es imprescindible tener ya el certificado de TCP"
+   ],
+   "crit": {
+    "age": 21,
+    "hmin": 160
+   }
+  },
+  {
    "id": "smartwings",
    "accent": "#00A0E3",
    "name": "Smartwings",
@@ -875,6 +896,20 @@
    "venue": "Candidatura online",
    "notes": "Swiftair busca tripulantes de cabina con base en Ibiza (anunciado por Diarioazafata el 22 nov). Consulta requisitos y plazo en su web de empleo antes de inscribirte.",
    "link": "https://www.swiftair.com/work-offers/"
+  },
+  {
+   "id": "5k-open",
+   "airline": "hifly",
+   "date": null,
+   "time": "",
+   "city": "Lisboa",
+   "country": "Portugal",
+   "kind": "Candidatura abierta",
+   "access": "online",
+   "status": "por confirmar",
+   "venue": "Candidatura online en su portal de empleo",
+   "notes": "Oferta de TCP («Cabin Crew Members») con base en Lisboa en el portal oficial de Hi Fly. Admite candidatos sin certificado de TCP. La oferta no tiene fecha: comprueba que sigue activa antes de inscribirte.",
+   "link": "https://hifly.factorialhr.pt/job_posting/cabin-crew-members-253623"
   }
  ]
 }
