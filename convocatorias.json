@@ -861,6 +861,20 @@
    "venue": "Formulario online",
    "notes": "Formulario de candidatura para TCP en su web. Hay que tener ya el curso inicial de TCP (EASA).",
    "link": "https://wamosair.com/es/trabaja-con-nosotros/"
+  },
+  {
+   "id": "wt-ibz",
+   "airline": "swiftair",
+   "date": null,
+   "time": "",
+   "city": "Ibiza",
+   "country": "España",
+   "kind": "Convocatoria TCP",
+   "access": "online",
+   "status": "abierta",
+   "venue": "Candidatura online",
+   "notes": "Swiftair busca tripulantes de cabina con base en Ibiza (anunciado por Diarioazafata el 22 nov). Consulta requisitos y plazo en su web de empleo antes de inscribirte.",
+   "link": "https://www.swiftair.com/work-offers/"
   }
  ]
 }
