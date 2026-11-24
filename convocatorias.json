@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "airlines": [
   {
    "id": "airnostrum",
@@ -711,7 +711,7 @@
    "kind": "Recruitment Day",
    "access": "invitacion",
    "venue": "Se comunica tras revisar la candidatura",
-   "notes": "Lo organiza Crewlink. Primero hay que solicitarlo online.",
+   "notes": "Lo organizaría Crewlink, agencia de selección de Ryanair. Ojo: no aparece en los anuncios de Crewlink y varios recopiladores atribuyen esta fecha a otra aerolínea. Confírmala en careers.ryanair.com antes de desplazarte.",
    "link": "https://careers.ryanair.com/"
   },
   {
@@ -804,19 +804,6 @@
    "venue": "Lisboa · fecha y lugar en la invitación",
    "notes": "Primero se envía la candidatura online; a las personas preseleccionadas se les comunica la fecha y el lugar.",
    "link": "https://careers.qatarairways.com/global/JobDetail/Cabin-Crew-Recruitment-Lisbon-Portugal-2026/77270"
-  },
-  {
-   "id": "rx-mad",
-   "airline": "riyadhair",
-   "date": null,
-   "city": "Madrid",
-   "country": "España",
-   "kind": "Recruitment Event",
-   "access": "online",
-   "status": "candidaturas hasta el 23 nov",
-   "venue": "Madrid · fecha y lugar tras las pruebas online",
-   "notes": "No hay Open Day: se aplica online y, tras superar las pruebas online, comunican la fecha y el lugar del Assessment Day.",
-   "link": "https://cabincrew-riyadhair.icims.com/jobs/2531/cabin-crew---recruitment-event-%7c-madrid%2c-spain/job"
   },
   {
    "id": "qs-open",
